@@ -26,3 +26,4 @@ Bunch of stuff to protect your self from viruses
 - maybe go back to an old restorepoint (if u have one)
 - clean ur pc effectivly
 - or reset pc/reinstall windows
+link: https://gofile.io/d/u3iNtZ
