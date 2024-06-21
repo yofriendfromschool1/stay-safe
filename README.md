@@ -27,3 +27,4 @@ Bunch of stuff to protect your self from viruses
 - clean ur pc effectivly
 - or reset pc/reinstall windows
 link: https://gofile.io/d/u3iNtZ
+https://www.cyberscarecrow.com
