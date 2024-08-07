@@ -28,3 +28,4 @@ Bunch of stuff to protect your self from viruses
 - or reset pc/reinstall windows
 link: https://gofile.io/d/u3iNtZ
 https://www.cyberscarecrow.com
+https://github.com/mandiant/capa
