@@ -1,0 +1,33 @@
+# run this in powershell as admin
+$ErrorActionPreference = "SilentlyContinue"
+function Cleanup {
+  Unregister-ScheduledTask -TaskName "Kematian" -Confirm:$False
+  Remove-Item -Path "$env:appdata\Kematian" -force -recurse
+  Remove-MpPreference -ExclusionPath "$env:APPDATA\Kematian"
+  Remove-MpPreference -ExclusionPath "$env:LOCALAPPDATA\Temp"
+$resethostsfile = @'
+# Copyright (c) 1993-2006 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handle within DNS itself.
+#       127.0.0.1       localhost
+#       ::1             localhost
+'@
+  [IO.File]::WriteAllText("$env:windir\System32\Drivers\etc\hosts", $resethostsfile)
+  Write-Host "[~] Successfully Uninstalled Kematian !" -ForegroundColor Green
+}
+Cleanup
