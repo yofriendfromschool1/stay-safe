@@ -1,0 +1,3 @@
+DISM.exe /Online /Cleanup-image /Restorehealth
+sfc /scannow
+wsreset.exe
