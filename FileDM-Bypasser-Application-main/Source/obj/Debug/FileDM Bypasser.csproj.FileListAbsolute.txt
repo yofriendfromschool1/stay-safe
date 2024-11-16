@@ -1,0 +1,9 @@
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\bin\Debug\FileDM Bypasser.exe.config
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\bin\Debug\FileDM Bypasser.exe
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\bin\Debug\FileDM Bypasser.pdb
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\obj\Debug\FileDM Bypasser.csprojAssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\obj\Debug\FileDM_Bypasser.Properties.Resources.resources
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\obj\Debug\FileDM Bypasser.csproj.GenerateResource.cache
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\obj\Debug\FileDM Bypasser.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\obj\Debug\FileDM Bypasser.exe
+C:\Users\matth\OneDrive\Desktop\FileDM Bypasser\FileDM Bypasser\obj\Debug\FileDM Bypasser.pdb
