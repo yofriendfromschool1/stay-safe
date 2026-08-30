@@ -21,7 +21,7 @@ Bunch of stuff to protect your self from viruses
 - use [Triage](https://tri.age) before running a program
 - use [AnyRun](https://any.run)
 - or use a vm and make it not look like a vm examples: https://github.com/hzqst/VmwareHardenedLoader https://github.com/bRootForceSec/vbox_stealth https://github.com/smol-machines/smolvm qemu/kvm etc. u have
-- if u smart reverse engineer it using either [IDA](https://hexrays.su) or [x64dbg](https://x64dbg.com) and some http debugging tools like [Wireshark](https://www.wireshark.org) or [HttpDebugger](https://www.httpdebugger.com) some things u 100% dont wanna see when using any of the above Csteal or Creal, Stealer, Remcos, Quasar, Lunar stealer, comet, blankgrabber, and more. DO YOUR RESEARCH!!!
+- if u smart reverse engineer it using either [IDA](https://hexrays.su) or [x64dbg](https://x64dbg.com) and some http debugging tools like [Wireshark](https://www.wireshark.org) or [HttpDebugger](https://1337x.to/torrent/6703963/HTTP-Debugger-Pro-10-9-Incl-Keygen-KhanPC/) or https://thepiratebay.bond/torrent/83100525/HTTP_Debugger_Pro_10.1___keygen some things u 100% dont wanna see when using any of the above Csteal or Creal, Stealer, Remcos, Quasar, Lunar stealer, comet, blankgrabber, and more. DO YOUR RESEARCH!!!
 - or send it to me jasminethecooles2001 user id: 1234018959167324220 @jazminethecooles2001 and ill lyk what i think about it 
 # If you are infected rn currently
 - change all your passwords/emails
@@ -31,10 +31,10 @@ Bunch of stuff to protect your self from viruses
 link: https://gofile.io/d/u3iNtZ
 https://www.cyberscarecrow.com
 https://github.com/mandiant/capa
-- TO USE THE LINKS FOR Bitdefender OR Kaspersky OR IDA you need [QBitTorrent](https://www.qbittorrent.org/download)
+- TO USE THE LINKS FOR Bitdefender OR Kaspersky OR IDA OR HttpDebugger you need [QBitTorrent](https://www.qbittorrent.org/download)
 - ALSO WHEN EVER USING THE INTERNET USE AN ADBLOCKER best browsers is:
 - [LibreWolf](https://librewolf.net/)
 - [Mullvad Browser](https://mullvad.net/en/browser)
 - [Brave](https://brave.com/)
-GET THIS PLEASEEEEEEE YOU NEED BEST AD BLOCKERS EVER -> [UBlock Origin](https://github.com/gorhill/ublock) (Experimental but still good forked from UBlock Origin): [AdNauseam](https://github.com/dhowe/adnauseam/)
+- GET THIS PLEASEEEEEEE YOU NEED BEST AD BLOCKERS EVER -> [UBlock Origin](https://github.com/gorhill/ublock) (Experimental but still good forked from UBlock Origin): [AdNauseam](https://github.com/dhowe/adnauseam/)
 also have common sense like check what youre downloading bro
