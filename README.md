@@ -8,6 +8,10 @@ Bunch of stuff to protect your self from viruses
 - [Norton Power Eraser](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN)
 - [Kaspersky](https://thepiratebay.party/torrent/75670819/Kaspersky_Total_Security_21.3.10.391___3_months_License_(Limited_Time)_[AppDoze]) or https://1337x.to/torrent/6136427/Kaspersky-Total-Security-v21-3-10-391-3-months-License-Limited-Time-AppDoze/
 - [Bitdefender](https://1337x.to/torrent/4848020/Bitdefender-Total-Security-2021-v25-0-14-58-32-64-Bit-MultiLang-Method-to-always-get-180-or-90-days/) or https://thepiratebay.party/torrent/34988238/Bitdefender_Total_Security_22.0.21.297___Instructions_for_Activa
+#Linux av
+- [ClamAV](https://www.clamav.net/downloads)
+- [chkrootkit](https://www.chkrootkit.org/download/)
+- [rkhunter](https://rkhunter.sourceforge.net/)  
 - also recommend these settings for each antivirus
 - also recommend doing ipconfig /flushdns in command prompt and doing sfc /scannow with admin rights in cmd
 - also press windows + r and type MRT
